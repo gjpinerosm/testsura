@@ -6,7 +6,8 @@ Este ejemplo basico hace enfasis en el envio y recepcion de un mensaje en el cor
 
 ## Clonar el proyecto
 
-git clone XXXXXXXXXXXXXXXXXXXXXXXXXXX
+git clone https://github.com/gjpinerosm/testsura.git
+
 cd TestSura
 
 ## Install Cucumber
