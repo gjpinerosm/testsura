@@ -10,11 +10,11 @@ git clone https://github.com/gjpinerosm/testsura.git
 
 cd TestSura
 
-## Install Cucumber
+## Instalación Cucumber
 
 npm install -g cucumber
 
-## Instalacion de protractor
+## Instalación de protractor
 
 npm install -g protractor
 
@@ -26,21 +26,27 @@ webdriver-manager update
 
 webdriver-manager start
 
-## Instalacion de Dependencias
+## Instalación de Dependencias
 
 npm install
 
-## Inicio deproyecto npm (Se ingresa este comado si se esta creando el proyecto desde ceros, si se clona no hay necidad de usar este comando)
+## Inicio de proyecto npm 
+
+### (Se ingresa este comado si se esta creando el proyecto desde ceros, si se clona no hay necidad de usar este comando)
 
 npm init
 
-## Instalacion de Mocha (Se le agregar el parametro –save al comando para que guarde dicha libreria en el fichero package.json.)
+## Instalacion de Mocha 
+
+### (Se le agregar el parametro –save al comando para que guarde dicha libreria en el fichero package.json.)
 
 npm install mocha --save
 
-## Instalacionde Chai (Dependecia para los test - http://chaijs.com/)
+## Instalacion de Chai 
+
+### (Dependecia para los test - http://chaijs.com/)
 
 npm install chai --save
 
 ----
-## NOTA: Se debe eliminar la carpeta node_modules antes de escribir el comando npm install
+### NOTA: Se debe eliminar la carpeta node_modules antes de escribir el comando npm install
