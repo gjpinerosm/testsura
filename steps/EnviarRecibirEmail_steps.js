@@ -47,7 +47,7 @@ module.exports = function(){
 		autenticacionPage.ingresarUsuario('gpineros.qvision@gmail.com');
 		autenticacionPage.clicSiguienteAutenticacion();
 		browser.sleep(3000);
-		autenticacionPage.ingresarPassword('!!gicogE99**');
+		autenticacionPage.ingresarPassword('XXXXXXXX');
 		autenticacionPage.clicSiguientePassword();
 		browser.sleep(3000);
 		browser.refresh();
